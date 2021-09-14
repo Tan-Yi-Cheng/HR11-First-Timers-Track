@@ -24,8 +24,7 @@ Page Actions are only displayed on certain pages, and their icon appears inside 
 ## BoilerPlates 
 If you would like a popup boilerplate, clone the `boilerplate/HR11_New_Tab_Extension` directory.
   
-If you would like a new tab boilerplate, clone the `boilerplate/HR11
-_Popup` directory.
+If you would like a new tab boilerplate, clone the `boilerplate/HR11_Popup` directory.
   
 If there is a different type of boilerplate you would like, see [Extensionizr](https://extensionizr.com/!#%7B%22modules%22:[%22hidden-mode%22,%22with-bg%22,%22with-persistent-bg%22,%22no-options%22,%22no-override%22],%22boolean_perms%22:[],%22match_ptrns%22:[]%7D).
 
